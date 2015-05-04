@@ -17,6 +17,7 @@
 > 5) Have options menu be simple to understand and easy to navigate
 >
 > 6) People will download because it will look simple, make sense to navigate, and be feature-rich
+>
 ----------------------
 > Technologies necessary for development:
 >
