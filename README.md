@@ -22,11 +22,14 @@
 >
 > Increased knowledge of Objective C
 >> Install xcode on a PC using a VM
+>
 >> App was started in Objective C -> translate into Swift code?
 >
 > Increased knowledge of Java
 >> Android Studio already installed
+>
 >> Currently learning Java by self using an Android app
 >> App was started in Objective C -> translate into Java code
+>
 ----------------------
 > Links to look at:
