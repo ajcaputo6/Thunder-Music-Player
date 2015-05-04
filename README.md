@@ -34,3 +34,8 @@
 >
 ----------------------
 > Links to look at:
+>
+> https://developer.apple.com/swift/
+>
+> http://developer.android.com/develop/index.html
+>
