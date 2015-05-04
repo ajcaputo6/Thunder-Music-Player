@@ -17,3 +17,16 @@
 > 5) Have options menu be simple to understand and easy to navigate
 >
 > 6) People will download because it will look simple, make sense to navigate, and be feature-rich
+----------------------
+> Technologies necessary for development:
+>
+> Increased knowledge of Objective C
+>> Install xcode on a PC using a VM
+>> App was started in Objective C -> translate into Swift code?
+>
+> Increased knowledge of Java
+>> Android Studio already installed
+>> Currently learning Java by self using an Android app
+>> App was started in Objective C -> translate into Java code
+----------------------
+> Links to look at:
