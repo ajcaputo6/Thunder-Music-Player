@@ -1,6 +1,6 @@
 # Thunder-Music-Player
 ----------------------
-# by Andrew Caputo
+> by Andrew Caputo
 ----------------------
-# A beautifully simple music player app for iOS
+> A beautifully simple music player app for iOS
 ----------------------
