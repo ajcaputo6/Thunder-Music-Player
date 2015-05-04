@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ThunderMusicPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 325}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{164, 105}";
+			sepNavWindowFrame = "{{884, 125}, {763, 903}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ThunderMusicPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 468}}";
+			sepNavSelRange = "{567, 0}";
+			sepNavVisRange = "{640, 94}";
+			sepNavWindowFrame = "{{588, 94}, {763, 903}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ThunderMusicPlayer */ = {
+		activeExec = 0;
+		executables = (
+			54BF7899193E268E00678738 /* ThunderMusicPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ThunderMusicPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 775}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{0, 1335}";
+			sepNavWindowFrame = "{{758, 102}, {763, 903}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ThunderMusicPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3900}}";
+			sepNavSelRange = "{7748, 0}";
+			sepNavVisRange = "{6456, 1643}";
+			sepNavWindowFrame = "{{801, 89}, {763, 903}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 54BF7899193E268E00678738 /* ThunderMusicPlayer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ThunderMusicPlayer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ThunderMusicPlayer */,
+		);
+		codeSenseManager = 54BF78AE193E269C00678738 /* Code sense */;
+		executables = (
+			54BF7899193E268E00678738 /* ThunderMusicPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 424280955;
+			PBXWorkspaceStateSaveDate = 424280955;
+		};
+		perUserProjectItems = {
+			54B15AF5194A05E40067EC6F /* PBXTextBookmark */ = 54B15AF5194A05E40067EC6F /* PBXTextBookmark */;
+			54C044461948B44800A320CB /* PlistBookmark */ = 54C044461948B44800A320CB /* PlistBookmark */;
+			54C045191948B97700A320CB /* PBXTextBookmark */ = 54C045191948B97700A320CB /* PBXTextBookmark */;
+			54C045331948BAE700A320CB /* PBXTextBookmark */ = 54C045331948BAE700A320CB /* PBXTextBookmark */;
+			54C045341948BAE700A320CB /* PBXTextBookmark */ = 54C045341948BAE700A320CB /* PBXTextBookmark */;
+			54C045351948BAE700A320CB /* PBXTextBookmark */ = 54C045351948BAE700A320CB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 54BF78AD193E269C00678738 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	54B15AF5194A05E40067EC6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ThunderMusicPlayerAppDelegate.h */;
+		name = "ThunderMusicPlayerAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 105;
+		vrLoc = 164;
+	};
+	54BF7899193E268E00678738 /* ThunderMusicPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ThunderMusicPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	54BF78AD193E269C00678738 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	54BF78AE193E269C00678738 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	54C044461948B44800A320CB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ThunderMusicPlayer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Network/Servers/fshs.oaktree.fmschools.org/2014 Students/14ACaputo/Documents/iPhone Work/ThunderMusicPlayer/ThunderMusicPlayer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	54C045191948B97700A320CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ThunderMusicPlayerViewController.h */;
+		name = "ThunderMusicPlayerViewController.h: 47";
+		rLen = 0;
+		rLoc = 1252;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 1246;
+	};
+	54C045331948BAE700A320CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ThunderMusicPlayerViewController.m */;
+		name = "ThunderMusicPlayerViewController.m: 69";
+		rLen = 0;
+		rLoc = 2044;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 1314;
+	};
+	54C045341948BAE700A320CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ThunderMusicPlayerAppDelegate.m */;
+		name = "ThunderMusicPlayerAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 94;
+		vrLoc = 640;
+	};
+	54C045351948BAE700A320CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ThunderMusicPlayerAppDelegate.h */;
+		name = "ThunderMusicPlayerAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 108;
+		vrLoc = 161;
+	};
+}
